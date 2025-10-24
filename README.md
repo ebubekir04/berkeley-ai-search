@@ -1,8 +1,3 @@
-# berkeley-ai-search
-
-Implementation of search algorithms (such as A*, BFS, DFS) as part of the Berkeryl AI project. Developed for an Artificial Intelligence course at the Vrije Universiteit Brussel (VUB), 
-Artificial Intelligene major.
-
 ## Project Overview
 
 This repository contains implementations of different search algorithms for solving pathfinding and problem-solving tasks, including:
